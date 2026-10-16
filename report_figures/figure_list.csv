@@ -1,0 +1,22 @@
+file_name,report_figure_no,report_section,caption,print_width_cm,pixel_width,pixel_height
+fig01_outlier_boxplots.png,1,Section 3,Box plots of unit price and revenue (two panels),15.5 cm,1830,1020
+fig02_revenue_log_transform.png,2,Section 3,Revenue distribution before and after natural log transformation (two panels),15.5 cm,1830,1020
+fig03_units_by_region_pandas.png,3,Section 5,Total units sold by region (Pandas horizontal bar plot),15.5 cm,1830,1140
+fig04_matplotlib_subplots.png,4,Section 5,Matplotlib dual subplots demo (annual units sold and top 5 categories by revenue),15.5 cm,1830,1020
+fig05_revenue_by_region.png,5,Section 5,Total gross revenue by geographic region,15.5 cm,1830,1140
+fig06_revenue_by_category.png,6,Section 5,"Total revenue by product category (horizontal bar chart, all 11 categories)",15.5 cm,1830,1200
+fig07_5g_vs_non5g.png,7,Section 5,Total revenue: 5G vs non-5G hardware (with percentage breakdown),15.5 cm,1830,1020
+fig08_yearly_revenue.png,8,Section 5,Yearly revenue trend across 2021 to 2024 (line with point markers and value labels),15.5 cm,1830,1020
+fig09_monthly_revenue.png,9,Section 5,Monthly revenue trend from January to December (line with lowest and peak callouts),15.5 cm,1830,1020
+fig10_regional_area.png,10,Section 5,Stacked yearly revenue by region (area chart),15.5 cm,1830,1140
+fig11_histograms.png,11,Section 5,"Distribution histograms: raw revenue, log revenue, and customer satisfaction rating",15.5 cm,1830,960
+fig12_boxplot_by_category.png,12,Section 5,Revenue distribution across product categories (horizontal box plots),15.5 cm,1830,1200
+fig13_discount_vs_revenue.png,13,Section 5,Promotional discount percentage vs revenue (scatter plot with trend line),15.5 cm,1830,1080
+fig14_units_vs_revenue.png,14,Section 5,Physical units sold vs revenue (scatter plot with trend line),15.5 cm,1830,1080
+fig15_bubble_price_revenue.png,15,Section 5,Unit price vs revenue bubble plot (bubble size proportional to units sold),15.5 cm,1830,1140
+fig16_return_pie.png,16,Section 5,Order return status breakdown (pie chart with percentage and label on slices),13.0 cm,1530,1200
+fig17_return_waffle.png,17,Section 5,Order return status composition (10x10 waffle grid),13.0 cm,1530,1200
+fig18_top10_countries.png,18,Section 5,Top 10 sovereign country markets by revenue (horizontal bar chart),15.5 cm,1830,1140
+fig19_regplot_price_revenue.png,19,Section 5,Seaborn linear regression plot: unit catalog price vs transaction revenue,15.5 cm,1830,1140
+fig20_lmplot_by_5g.png,20,Section 5,Seaborn conditioned regression plot: unit price vs revenue split by 5G connectivity,15.5 cm,1830,1140
+fig21_correlation_heatmap.png,21,Section 6,Pearson correlation matrix heatmap of numeric continuous features,13.0 cm,1530,1320
